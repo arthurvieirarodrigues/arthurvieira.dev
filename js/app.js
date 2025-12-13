@@ -30,7 +30,7 @@ function Portfolio() {
             
             <footer className="bg-gray-800 text-white py-8 mt-20">
                 <div className="max-w-6xl mx-auto px-4 text-center">
-                    <p>© 2024 {data.profile.name}. {data.footer.rights}</p>
+                    <p>© 2025 {data.profile.name}. {data.footer.rights}</p>
                     <p className="text-gray-400 mt-2">{data.footer.madeWith}</p>
                 </div>
             </footer>
