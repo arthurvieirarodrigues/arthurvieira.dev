@@ -7,7 +7,7 @@ const profileDataPT = {
         name: "Arthur Vieira",
         title: "Engenheiro de Software e Cientista de Dados",
         photo: "assets/profile.jpg", 
-        about: "Olá! Sou um profissional apaixonado por tecnologia, com experiência em desenvolvimento de software e ciência de dados. Trabalho com Python, JavaScript, React e diversas ferramentas de análise de dados. Meu objetivo é criar soluções inovadoras que transformem dados em insights valiosos e desenvolvam aplicações que impactem positivamente a vida das pessoas.",
+        about: "Olá Teste! Sou um profissional apaixonado por tecnologia, com experiência em desenvolvimento de software e ciência de dados. Trabalho com Python, JavaScript, React e diversas ferramentas de análise de dados. Meu objetivo é criar soluções inovadoras que transformem dados em insights valiosos e desenvolvam aplicações que impactem positivamente a vida das pessoas.",
         email: "arthurvieiradatascience@gmail.com",
         phone: "+55 (53) 99970-9504",
         github: "https://github.com/arthurvieirarodrigues",
