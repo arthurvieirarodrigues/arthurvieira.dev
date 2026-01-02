@@ -23,14 +23,14 @@ const profileDataPT = {
         viewProject: "Ver projeto",
         downloadPDF: "Baixar PDF"
     },
-    projects: [
-        {
-            title: "Sistema de Análise Preditiva",
-            description: "Modelo de machine learning para previsão de vendas usando Python, Pandas e Scikit-learn. Aumentou a precisão das previsões em 35%.",
-            tech: ["Python", "Pandas", "Scikit-learn", "Flask"],
-            link: "https://github.com/arthurvieirarodrigues/projeto1"
-        },
-    ],
+    // projects: [
+    //     {
+    //         title: "Sistema de Análise Preditiva",
+    //         description: "Modelo de machine learning para previsão de vendas usando Python, Pandas e Scikit-learn. Aumentou a precisão das previsões em 35%.",
+    //         tech: ["Python", "Pandas", "Scikit-learn", "Flask"],
+    //         link: "https://github.com/arthurvieirarodrigues/projeto1"
+    //     },
+    // ],
     skills: {
         "Linguagens": ["Python", "Java", "JavaScript", "SQL", "Shell Script"],
         "Frameworks": ["React", "Django", "Flask", "Node.js"],
