@@ -7,7 +7,7 @@ const profileDataPT = {
         name: "Arthur Vieira",
         title: "Engenheiro de Software e Cientista de Dados",
         photo: "assets/profile.jpg", 
-        about: "Olá Teste! Sou um profissional apaixonado por tecnologia, com experiência em desenvolvimento de software e ciência de dados. Trabalho com Python, JavaScript, React e diversas ferramentas de análise de dados. Meu objetivo é criar soluções inovadoras que transformem dados em insights valiosos e desenvolvam aplicações que impactem positivamente a vida das pessoas.",
+        about: "Engenheiro de Software com 2 anos de experiência na construção de sistemas utilizando Python como linguagem principal.",
         email: "arthurvieiradatascience@gmail.com",
         phone: "+55 (53) 99970-9504",
         github: "https://github.com/arthurvieirarodrigues",
@@ -23,14 +23,14 @@ const profileDataPT = {
         viewProject: "Ver projeto",
         downloadPDF: "Baixar PDF"
     },
-    // projects: [
-    //     {
-    //         title: "Sistema de Análise Preditiva",
-    //         description: "Modelo de machine learning para previsão de vendas usando Python, Pandas e Scikit-learn. Aumentou a precisão das previsões em 35%.",
-    //         tech: ["Python", "Pandas", "Scikit-learn", "Flask"],
-    //         link: "https://github.com/arthurvieirarodrigues/projeto1"
-    //     },
-    // ],
+    projects: [
+        {
+            title: "Aplicação web para venda de ingressos",
+            description: "Plataforma completa para criação de eventos, festas, shows e venda de ingressos , com suporte de processamento de pagamentos, controle de estoque e validação de ingressos via QR Code.",
+            tech: ["Python", "Flask", "React", "Postgres", "AWS"],
+            link: "https://github.com/arthurvieirarodrigues"
+        },
+    ],
     skills: {
         "Linguagens": ["Python", "Java", "JavaScript", "SQL", "Shell Script"],
         "Frameworks": ["React", "Django", "Flask", "Node.js"],
@@ -41,8 +41,8 @@ const profileDataPT = {
         {
             role: "Full Stack Developer",
             company: "Freelancer",
-            period: "2022 - Presente",
-            description: "Criação de um sistema completo de venda de ingressos para shows, eventos, festas e etc."
+            period: "2024 - Presente",
+            description: "Plataforma completa para criação de eventos, festas, shows e venda de ingressos."
         },
 
     ],
