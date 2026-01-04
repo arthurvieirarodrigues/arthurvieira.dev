@@ -32,16 +32,13 @@ const profileDataPT = {
         },
     ],
     skills: {
-        "Linguagens": ["Python", "Java", "JavaScript", "SQL", "Shell Script"],
-        "Frameworks": ["React", "Django", "Flask", "Node.js"],
-        "Data Science": ["Pandas", "NumPy", "Scikit-learn", "TensorFlow"],
-        "Ferramentas": ["Git", "Docker", "AWS", "PostgreSQL"]
+        "Tech Stack":["Python","Flask", "Postgres", "Git", "Github", "React", "Pandas", "NumPy", "Scikit-learn", "TensorFlow" ],
     },
     experience: [
         {
-            role: "Full Stack Developer",
+            role: "Engenheiro de Software",
             company: "Freelancer",
-            period: "2024 - Presente",
+            period: "JUN/2024 - Presente",
             description: "Plataforma completa para criação de eventos, festas, shows e venda de ingressos."
         },
 
@@ -50,7 +47,7 @@ const profileDataPT = {
         {
             degree: "Tecnólogo em Ciência de Dados",
             institution: "Uninter",
-            year: "2024"
+            year: "JAN/2021 - SET/2024"
         }
     ],
     footer: {
