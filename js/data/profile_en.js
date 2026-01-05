@@ -54,7 +54,5 @@ const profileDataEN = {
     footer: {
         rights: "Todos os direitos reservados."
     }
-
     
-
 };

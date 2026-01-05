@@ -27,13 +27,14 @@ const HomePage = ({ data }) => {
             {/* Hero Section */}
             <div className="text-center space-y-6 py-12">
                 {data.profile.photo ? (
-                    <img 
-                        src={data.profile.photo} 
+                    <img
+                        src={data.profile.photo}
                         alt={data.profile.name}
-                        className="w-64 h-64 rounded-full mx-auto object-cover border-4 border-gradient-to-br from-blue-500 to-purple-600 shadow-lg"
+                        className="w-80 h-80 rounded-full mx-auto object-cover border-4 border-gradient-to-br from-blue-500 to-purple-600 shadow-lg"
+                        style={{ objectPosition: '80% 15%'}}
                     />
                 ) : (
-                    <div className="w-64 h-64 bg-gradient-to-br from-blue-500 to-purple-600 rounded-full mx-auto flex items-center justify-center text-white text-8xl font-bold">
+                    <div className="w-80 h-80 bg-gradient-to-br from-blue-500 to-purple-600 rounded-full mx-auto flex items-center justify-center text-white text-8xl font-bold">
                         {data.profile.name.split(' ').map(n => n[0]).join('').substring(0, 2)}
                     </div>
                 )}
